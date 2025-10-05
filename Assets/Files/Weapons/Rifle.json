@@ -1,0 +1,13 @@
+{
+  "name": "Rifle",
+  "shotPerSecond": 2,
+  "damagePerBullet": 5,
+  "bulletPerShot": 1,
+  "bulletPerMagasine": 20,
+  "bulletperStock": 60,
+  "assetName": "RIFLE",
+  "description": "Standard weapon issued by the military",
+  "rarity": 0,
+  "type": 3,
+  "damageType": 0
+}

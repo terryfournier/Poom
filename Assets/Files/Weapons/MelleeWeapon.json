@@ -1,0 +1,13 @@
+{
+  "name": "MelleeWeapon",
+  "shotPerSecond": 1,
+  "damagePerBullet": 50,
+  "bulletPerShot": 1,
+  "bulletPerMagasine": 1,
+  "bulletperStock": 1,
+  "assetName": "CUT",
+  "description": "A really sharp blade to mow down your ennemies~",
+  "rarity": 0,
+  "type": 0,
+  "damageType": 2
+}

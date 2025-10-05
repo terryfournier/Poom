@@ -1,0 +1,23 @@
+# ProBuilder 6.0.5
+# https://unity3d.com/unity/features/worldbuilding/probuilder
+# 28/04/2025 12:16:25
+
+mtllib ./ProBuilder_Sprite.mtl
+o ProBuilder Sprite
+
+g ProBuilder Sprite
+v -59.1046 0.5 55.209
+v -59.1046 0.5 56.191
+v -60.09539 0.5 55.209
+v -60.09539 0.5 56.191
+
+vt -0.364502 -0.4003925
+vt -0.364502 0.4003925
+vt 0.364502 -0.4003925
+vt 0.364502 0.4003925
+
+vn 0 1 2.220446E-17
+
+usemtl ProBuilderDefault
+f 3/3/1 4/4/1 2/2/1 1/1/1
+

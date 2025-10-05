@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: S_MAT_CORRUPT
+  m_Shader: {fileID: -6465566751694194690, guid: 105d3db62c414dc43b916cc93033eb89, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_479061dd036b4f2e8c51c9b86e90b4d4_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 943214fa4b65b5143827f9dfb0b51ea5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_be2ee6d4f5334398b4539d32be82b99a_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 943214fa4b65b5143827f9dfb0b51ea5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_dd2ff1dc35fe4ce9bcc682ff30052eea_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 8999dc789b664bb44975d7f04572635e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Fullscreen_AlphaBlendOperation: 0
+    - _Fullscreen_BlendMode: 1
+    - _Fullscreen_ColorBlendOperation: 0
+    - _Fullscreen_DepthWrite: 0
+    - _Fullscreen_DstAlphaBlend: 10
+    - _Fullscreen_DstColorBlend: 10
+    - _Fullscreen_SrcAlphaBlend: 1
+    - _Fullscreen_SrcColorBlend: 5
+    - _PumpSpeed: 2
+    - _RingSize: 0.02
+    - _VeinSize: 2.93
+    - _WaveSpeed: 0.5
+    m_Colors:
+    - _CACA: {r: 0.055535786, g: 0.3018868, b: 0.22582635, a: 0}
+    - _ColorPump: {r: 0.3213332, g: 0.8207547, b: 0.60750824, a: 0}
+    - _ColorVein: {r: 0.110137075, g: 0.7075472, b: 0.17625093, a: 0}
+    - _PumpIntensity: {r: 0.2, g: 1, b: 0, a: 0}
+    - _RingOrigin: {r: 0.5, g: 0.5, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
