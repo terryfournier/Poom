@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ea197fcd-23db-4355-8803-5b2407103641}">
+		<property name="assetPath">
+			<value>Player/Jump/PlayerJump3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.18462585034013607</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e4002c01-4b81-4bbc-b107-7470d028c11a}</destination>
+		</relationship>
+	</object>
+</objects>

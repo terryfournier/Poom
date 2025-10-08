@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fff5aad5-a7e3-41d9-a93e-b37c6a69b870}">
+		<property name="assetPath">
+			<value>Player/Dash/PlayerDash1.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e4002c01-4b81-4bbc-b107-7470d028c11a}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bae73bc8-476a-4dbc-983b-8659df59ac8e}">
+		<property name="assetPath">
+			<value>Enemy/Crab/Crabe.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.2579365079365079</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e4002c01-4b81-4bbc-b107-7470d028c11a}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{05a1a2ca-7d7c-441a-876b-229a199e1ce9}">
+		<property name="name">
+			<value>IsShooting</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ec8d3a87-a2b9-4f9d-bba2-8b9c08775989}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3952eb1b-fe64-4cce-94b4-edae5acae7d0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3952eb1b-fe64-4cce-94b4-edae5acae7d0}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
